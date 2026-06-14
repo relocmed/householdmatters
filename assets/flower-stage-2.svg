@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <title>Полив цветов — стадия 2 (грязновато): цветок поник, лепесток упал</title>
+  <path d="M30,62 L50,62 L47,76 L33,76 Z" fill="#D85A30"/>
+  <path d="M40,62 C40,46 44,42 52,42" stroke="#854F0B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M40,54 C34,53 32,49 33,46 C37,48 40,50 40,54" fill="#BA7517"/>
+  <circle cx="52" cy="36" r="5" fill="#F4C0D1"/><circle cx="58" cy="44" r="5" fill="#F4C0D1"/>
+  <circle cx="46" cy="42" r="5" fill="#F4C0D1"/><circle cx="52" cy="48" r="4.5" fill="#F4C0D1"/>
+  <circle cx="52" cy="42" r="4.5" fill="#EF9F27"/><circle cx="62" cy="58" r="3" fill="#F4C0D1"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <title>Полив цветов — стадия 3 (грязно): цветок засох, лепестки осыпались</title>
+  <path d="M30,62 L50,62 L47,76 L33,76 Z" fill="#D85A30"/>
+  <path d="M40,62 C40,50 46,50 52,56" stroke="#854F0B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="52" cy="56" r="4" fill="#BA7517"/>
+  <circle cx="58" cy="60" r="3" fill="#F0997B"/><circle cx="30" cy="60" r="3" fill="#F0997B"/>
+  <circle cx="46" cy="61" r="3" fill="#F0997B"/><circle cx="60" cy="50" r="3" fill="#F0997B"/>
+  <path d="M36,56 C34,52 34,48 36,46" stroke="#B4B2A9" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <title>Полив цветов — стадия 0 (чисто): цветок свежий</title>
+  <path d="M30,62 L50,62 L47,76 L33,76 Z" fill="#D85A30"/>
+  <path d="M40,62 L40,32" stroke="#639922" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M40,50 C33,48 31,43 32,40 C37,42 40,45 40,50" fill="#97C459"/>
+  <path d="M40,44 C47,42 49,37 48,34 C43,36 40,39 40,44" fill="#97C459"/>
+  <circle cx="33" cy="26" r="5" fill="#ED93B1"/><circle cx="47" cy="26" r="5" fill="#ED93B1"/>
+  <circle cx="36" cy="19" r="5" fill="#ED93B1"/><circle cx="44" cy="19" r="5" fill="#ED93B1"/>
+  <circle cx="40" cy="29" r="5" fill="#ED93B1"/><circle cx="40" cy="24" r="4.5" fill="#EF9F27"/>
+</svg>
